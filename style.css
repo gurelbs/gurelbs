@@ -80,7 +80,6 @@ p{
 }
 .card:hover {
     box-shadow: 0 2px 64px rgb(0, 0, 0);
-    cursor: cell;
 }
 .card-container p a {
     font-weight: 700;
@@ -93,8 +92,37 @@ p{
 .green{
     border-radius:  0;
     background: rgba(196, 103, 103, 0.63);
-
-
+}
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px solid black; /* If you want dots under the hoverable text */
+}
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 80px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+}
+.tooltip:hover {
+    cursor: pointer;
+}
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+.tooltip .tooltiptext {
+    top: -30px;
+}
+.card-container .github-icon-size{
+    font-size: 1.1rem;
+    color: burlywood;
+    font-weight: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 footer{
     position: fixed;
@@ -131,3 +159,5 @@ footer a{
         font-size: calc(3rem + 2vmin);
     }
 }
+
+
