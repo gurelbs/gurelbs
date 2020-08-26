@@ -2,4 +2,4 @@
 
 
 my main projects website.
-link <a href="gurelbs.github.io">here</a>
+link <a href="https://gurelbs.github.io/">here</a>
