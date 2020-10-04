@@ -1,6 +1,6 @@
 # <h1>PROJECTS LINKS: <a href="https://guribs.com/">Here</a>.</h1>
 
-# <h2> others:</h2>
+# <h1> others:</h1>
 
 ### netflix home page clone: 
 https://gurelbs.github.io/netflix/
