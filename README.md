@@ -1,8 +1,8 @@
-### projects links: 
+# projects links: 
 
 <a href="https://gurelbs.github.io/gurelbs/">here</a><h1>
 
-### main web: 
+## main web: 
 
 <a href="https://guribs.com/">here</a>
 
