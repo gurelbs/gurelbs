@@ -1,5 +1,5 @@
 # <h1>PROJECTS LINKS:</h1> 
-<h1><a href="https://guribs.com/">GURIBS.</a></h1>
+<h1><a href="https://guribs.com/">GURIBS.COM</a></h1>
 
 # <h1> others:</h1>
 
