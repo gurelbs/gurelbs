@@ -1,4 +1,4 @@
 ## my main web 
 
 # 
-link <a href="https://gurel.cf">here</a>
+link <a href="https://gurelbs.github.io/gurelbs/">here</a>
