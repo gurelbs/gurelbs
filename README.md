@@ -1,7 +1,6 @@
-# <p>projects links: </p>
-<a href="https://guribs.com/">here</a>
+# <h1>projects links: <a href="https://guribs.com/">here</a> </h1>
 
-# <p> others: </p>
+# <h2> others: </h2>
 
 netflix clone: 
 https://gurelbs.github.io/netflix/
