@@ -1,19 +1,18 @@
 # projects links: 
 
-<a href="https://guribs.com/">here</a>
+<p>
+    <a href="https://guribs.com/">here</a>
+</p>
 
 
-## others: 
-
-<h1>
-`
-CSS:
-`
-</h1>
-# netflix clone: 
+# others: 
+<div>
+<h1>netflix clone: </h1>
 https://gurelbs.github.io/netflix/
 # learn web code: 
 https://devtools.cf/
+</div>
+
 
 
 `
