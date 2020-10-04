@@ -2,14 +2,22 @@
 
 # <h2> others: </h2>
 
-netflix clone: 
+netflix home page clone: 
 https://gurelbs.github.io/netflix/
+source code here:  https://github.com/gurelbs/netflix
 
-learn web code: 
+erroca home page clone:
+https://gurelbs.github.io/erroca/
+source code here: https://github.com/gurelbs/erroca
+
+learn-code website: 
 https://devtools.cf/
 
 to-do app: 
 https://gurelbs.github.io/matala/
+
+full-stack (mongoose) to-do app: 
+https://ptakim.herokuapp.com/
 
 google search - hebrew speech recognition: 
 https://gurelbs.github.io/transcript/
@@ -17,5 +25,11 @@ https://gurelbs.github.io/transcript/
 hebrew auto-transcript: 
 https://gurelbs.github.io/hebrew/
 
-full-stack to-do app: 
-https://ptakim.herokuapp.com/
+js functions: 
+https://github.com/gurelbs/FUNCTIONS
+
+poetry web:
+https://poet.cf/
+source code here: https://github.com/gurelbs/poet
+
+
