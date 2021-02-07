@@ -5,9 +5,15 @@
 ### https://aristo.cf - React & Node.js App for philosophical terms, ideas and theories from ancient Greece to modern times. 
 ### https://hebrew.cf - pure JS App: voice assistant in Hebrew that can find anything on Google, YouTube, Wikipedia and more custom voice commands.
 ### https://crypto.cf - online website for the top 100 current cryptocurrency. made with coingecko free API. 
+### https://ecode.cf - React & Node.js App for online HTML & CSS & JS editor
 
-## <h1>more Pure Css website:</h1>
+#### https://playjs.cf/ - simple doodle jump game - PURE JavaScript
 
+
+## <h1>pure Css website:</h1>
+
+### tesla model 3 page clone:
+#### https://gurelbs.github.io/tesla/
 ### netflix home page clone: 
 #### https://gurelbs.github.io/netflix/
 > <br>source code here:  https://github.com/gurelbs/netflix
