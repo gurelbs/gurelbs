@@ -4,10 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gurebs/)
 
 <div width="100%">
-   <div align="right" width="40%">
-      <img width="50%" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
-   </div>
-    <div align="left" width="50%">
+   <img width="40%" align="right" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
+    <div align="left" width="40%">
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
