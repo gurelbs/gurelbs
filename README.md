@@ -30,11 +30,14 @@
 </div>
 
 <h1>About me</h1>
-- 🔭 I’m 26 yeras old, from israel &#127470; &#127473;
+- 🔭 I’m 26 yeras old, from israel &#127470;&#127473;
+
 - 🔭 I’m currently Open To Work
+
 - 🌱 I’m currently learning 
+
 - 👯 I’m looking to collaborate on **Full/MERN-Stack, Front-End or Back-End Development**
-- 
+-  
 <details  width="100%" align="center">
    <br />
 <summary style="font-size:3rem;">
