@@ -1,9 +1,20 @@
 # I'M Gurel. Full-stack Web Developer.
+<p align="center"><img src="https://profile-counter.glitch.me/{gurelbs}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<p align="center">
+  <em>
+    Hello, I am Ovindu Wijethunge a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
 <p align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
   <h2 align="center">Github Profile Trophy</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=gurelbs)](https://github.com/gurelbs)
 </p>
+![trophy](https://github-profile-trophy.vercel.app/?username=gurelbs)](https://github.com/gurelbs)
 
 # TOP PROJECTS:
 ## [speakly](https://speakly.cf)
