@@ -35,7 +35,7 @@
    <br />
 <summary style="font-size:3rem;">
    <span style='font-size:100px;'>&#10145;</span> 
-   <img src="https://img.shields.io/badge/-Click%20To%20Show%20All%20Projects:-eee?style=flat&logoColor=#333" href="#"/>
+   <img src="https://img.shields.io/badge/-Click%20To%20Show%20All%20Projects:-eee?style=flat&logoColor=#333" href="https://github.com/gurelbs/gurelbs/blob/master/README.md#projects"/>
    <span style='font-size:100px;'>&#11013;</span>
 </summary>
    <br />
