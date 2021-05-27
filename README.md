@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gurebs/)
 
 <div width="100%">
-   <div align="right" width="50%">
+   <div align="right" width="40%">
       <img width="50%" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
    </div>
     <div align="left" width="50%">
