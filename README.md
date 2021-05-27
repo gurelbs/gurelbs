@@ -1,5 +1,9 @@
+# I'M Gurel. Full-stack Web Developer.
+[![trophy](https://github-profile-trophy.vercel.app/?username=gurelbs)](https://github.com/gurelbs)
+
 # TOP PROJECTS:
-### (speakly)[https://speakly.cf]
+## [speakly](https://speakly.cf)
+> hebrew virtual assistant app. -MERN-stack appliction
 # MY WEBSITES:
 ### https://gurel.cf - pure css - my simple portfolio app.
 ### https://milim.cf - React & Node.js App for speech recognition and automatic translation to Hebrew with Voice commands.
