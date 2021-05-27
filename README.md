@@ -26,9 +26,11 @@
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
    </div>
 </div>
+
 # Projects:
+
 <details  width="100%" align="center">
-<summary style="font-size:3rem;">Click To Show All Projects:</summary>
+<button  width="100%" align="center"><summary style="font-size:3rem;">Click To Show All Projects:</summary></button>
    <table width="100%" align="center" style="border-collapse:collapse;border-spacing: 0;border: 1px solid #ddd;">
       <tr>
          <th>Name</th>
