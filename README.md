@@ -5,7 +5,7 @@
 
 <div width="100%">
    <div align="right" width="50%">
-      <img width="auto" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
+      <img width="50%" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
    </div>
     <div align="left" width="50%">
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
