@@ -1,8 +1,11 @@
-# I'M Gurel. Full-stack Web Developer.
-<p align="right" width="50%"><img src="https://profile-counter.glitch.me/{gurelbs}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-<a href="https://github.com/gurelbs">
-   <img width="50%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
+<div align="left" width="50%">
+   <h1>I'M Gurel. Full-stack Web Developer.</h1>
+   <a href="https://github.com/gurelbs">
+   <img width="auto" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
 </a>
+</div>
+<p align="right" width="50%"><img src="https://profile-counter.glitch.me/{gurelbs}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
 
 # TOP PROJECTS:
 ## [speakly](https://speakly.cf)
