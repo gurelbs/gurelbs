@@ -86,32 +86,64 @@
              <img src="https://img.shields.io/badge/-react.js-aqua?style=flat&logo=react&logoColor=black" alt="react-tag"/>
          </td>
       </tr>
+       <tr>
+         <td>Aristo</td>
+          <td>App for philosophical terms, ideas and theories from ancient Greece to modern times. </td>
+          <td><a href="https://aristo.cf">aristo.cf</a></td>
+          <td><a href="https://github.com/gurelbs/aristo/tree/master">gurelbs/aristo</a></td>
+          <td>
+             <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="html-tag"/>
+             <img src="https://img.shields.io/badge/-react.js-aqua?style=flat&logo=react&logoColor=black" alt="react-tag"/>
+         </td>
+      </tr>
+       <tr>
+         <td>Aristo</td>
+          <td>App for philosophical terms, ideas and theories from ancient Greece to modern times. </td>
+          <td><a href="https://aristo.cf">aristo.cf</a></td>
+          <td><a href="https://github.com/gurelbs/aristo/tree/master">gurelbs/aristo</a></td>
+          <td>
+             <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="html-tag"/>
+             <img src="https://img.shields.io/badge/-react.js-aqua?style=flat&logo=react&logoColor=black" alt="react-tag"/>
+         </td>
+      </tr>
    </table>
 </details>
 
-### https://hebrew.cf - pure JS App: voice assistant in Hebrew that can find anything on Google, YouTube, Wikipedia and more custom voice commands.
-### https://crypto.cf - online website for the top 100 current cryptocurrency. made with coingecko free API. 
-#### https://playjs.cf/ - simple doodle jump game - PURE JavaScript
+## other project:
 
-## <h1>pure Css website:</h1>
-### tesla model 3 page clone:
-#### https://gurelbs.github.io/tesla/
-### netflix home page clone: 
-#### https://gurelbs.github.io/netflix/
-> <br>source code here:  https://github.com/gurelbs/netflix
+##### hebrew.cf ( [speakly](https://speakly.cf) first version )
+> voice assistant in Hebrew that can find anything on Google, YouTube, Wikipedia and more custom voice commands.
+> [hebrew.cf](https://hebrew.cf)
 
-### erroca home page clone:
-#### https://gurelbs.github.io/erroca/
-> <br>source code here: https://github.com/gurelbs/erroca
+##### crypto.cf ( [coindex](https://coindex.cf) first version )
+> online website for the top 100 current cryptocurrency. made with coingecko free API. 
+> [crypto.cf](https://crypto.cf)
+> 
+##### playjs
+> simple doodle jump game - PURE JavaScript
+> [playjs.cf](https://playjs.cf/) 
 
-### other project:
-##### learn-code website (beta): 
-> https://devtools.cf/
+##### tesla website
+> tesla model 3 page clone (html,css):
+> [homepage](https://gurelbs.github.io/tesla/)
+
+##### netflix website
+> netflix home page clone (html,css): 
+> [homepage](https://gurelbs.github.io/netflix/)
+> [source code](https://github.com/gurelbs/netflix)
+
+##### erroca website:
+> erroca homepage clone (html,css):
+> [homepage](https://gurelbs.github.io/erroca/)
+> [source code](https://github.com/gurelbs/erroca)
+
+##### bootstrap simple web tamplate: 
+> [link](https://devtools.cf/)
 ##### simple to-do app: 
-> https://gurelbs.github.io/matala/
+> [link](https://gurelbs.github.io/matala/)
 ##### to-do app with DB: 
-> https://ptakim.herokuapp.com/
+> [link](https://ptakim.herokuapp.com/)
 ##### google search - hebrew speech recognition: 
-> https://gurelbs.github.io/transcript/
-##### hebrew auto-transcript: 
-> https://gurelbs.github.io/hebrew/
+> [link](https://gurelbs.github.io/transcript/)
+##### hebrew auto-transcript:
+> [link](https://gurelbs.github.io/hebrew/)
