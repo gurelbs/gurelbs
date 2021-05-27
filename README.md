@@ -33,7 +33,11 @@
 
 <details  width="100%" align="center">
    <br />
-<summary style="font-size:3rem;"><span style='font-size:100px;'>&#10145;</span> Click To Show All Projects: <span style='font-size:100px;'>&#11013;</span></summary>
+<summary style="font-size:3rem;">
+   <span style='font-size:100px;'>&#10145;</span> 
+   <img src="https://img.shields.io/badge/-Click%20To%20Show%20All%20Projects:-eee?style=flat&logoColor=#333" href="#"/>
+   <span style='font-size:100px;'>&#11013;</span>
+</summary>
    <br />
    <table width="100%" align="center" style="border-collapse:collapse;border-spacing: 0;border: 1px solid #ddd;">
       <br />
