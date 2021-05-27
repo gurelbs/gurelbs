@@ -34,9 +34,7 @@
 <details  width="100%" align="center">
    <br />
 <summary style="font-size:3rem;">
-   <span style='font-size:100px;'>&#10145;</span> 
-   <h1>Click To Show All Projects</h1>
-   <span style='font-size:100px;'>&#11013;</span>
+   <h1><span>&#10145;</span> Click To Show All Projects <span>&#11013;</span></h1>
 </summary>
    <br />
    <table width="100%" align="center" style="border-collapse:collapse;border-spacing: 0;border: 1px solid #ddd;">
