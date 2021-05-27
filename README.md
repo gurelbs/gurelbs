@@ -50,7 +50,7 @@
           <td>
              <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="html-tag"/>
              <img src="https://img.shields.io/badge/-react.js-aqua?style=flat&logo=react&logoColor=black" alt="react-tag"/>
-             <img src="https://img.shields.io/badge/puppeteer-green" alt="html-tag"/>
+             <img src="https://img.shields.io/badge/-puppeteer-red?style=flat&logo=puppeteer&logoColor=white" alt="react-tag"/>
              <img src="https://img.shields.io/badge/socket.io-green" alt="html-tag"/>
          </td>
       </tr>
