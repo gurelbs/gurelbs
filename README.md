@@ -27,7 +27,7 @@
    </div>
 </div>
 <details>
-<summary><h1 style="font-size:bold">Projects<h1></summary>
+<summary style="font-size:3rem;">Projects</summary>
    <table width="100%" align="center">
       <tr>
          <th>name</th>
