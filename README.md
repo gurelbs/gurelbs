@@ -14,7 +14,7 @@
  &nbsp;
 <div width="100%">
    <img width="40%" align="right" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
-    <div align="left" width="40%">
+    <div align="left" width="60%">
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
@@ -28,17 +28,9 @@
 </div>
 <details>
 <summary>Projects</summary>
-  
-  <!---
-  | Command | Description |
+| Project | Tags | Demo
 | --- | --- |
-| [Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Python-blue">|
-| ... | ... |
-  --->
-  
-| Project | Tags |
-| --- | --- |
-| [**BERTopic**: Topic Modeling with BERT](https://github.com/MaartenGr/BERTopic) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-cTFIDF-red"> <img src="https://img.shields.io/badge/-UMAP-81D4FA"> <img src="https://img.shields.io/badge/-HDBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
+| [speakly: ](https://github.com/MaartenGr/BERTopic) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-cTFIDF-red"> <img src="https://img.shields.io/badge/-UMAP-81D4FA"> <img src="https://img.shields.io/badge/-HDBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
 | [**KeyBERT**: Keyword Extraction with BERT](https://github.com/MaartenGr/KeyBERT) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-MMR-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
 | [**SoAn**: Analyzing WhatsApp Messages](https://github.com/MaartenGr/soan) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Text%20Mining-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**VLAC**: Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Published-212121"> <img src="https://img.shields.io/badge/-Word%20Embeddings-red"> <img src="https://img.shields.io/badge/-kMeans-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
@@ -64,8 +56,8 @@
 | [Academic Journey Visualization](https://github.com/MaartenGr/Projects/blob/master/Notebooks/Grades.ipynb) | <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [Predicting Housing Prices](https://github.com/MaartenGr/Projects/blob/master/Notebooks/HousingPrices.ipynb) | <img src="https://img.shields.io/badge/-XGBoost-81D4FA"> <img src="https://img.shields.io/badge/-Stacking-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [Analyzing FitBit Data](https://github.com/MaartenGr/fitbit/) | <img src="https://img.shields.io/badge/-XGBoost-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
+</details>
 
-</details>  
 # TOP PROJECTS:
 ## [speakly](https://speakly.cf)
 > hebrew virtual assistant app. -MERN-stack appliction
