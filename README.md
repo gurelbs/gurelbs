@@ -28,7 +28,7 @@
 </div>
 <details>
 <summary>Projects</summary>
-   <table>
+   <table width="100%" align="center">
       <tr>
          <th>name</th>
          <th>demo</th>
