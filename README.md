@@ -27,9 +27,11 @@
    </div>
 </div>
 
-# About me:
-
-# Projects:
+<h1>About me</h1>
+<p>bla bla bla</p>
+<p>bla bla bla</p>
+<p>bla bla bla</p>
+<p>bla bla bla</p>
 
 <details  width="100%" align="center">
    <br />
