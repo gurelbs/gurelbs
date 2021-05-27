@@ -110,27 +110,22 @@
 </details>
 
 ## other project:
-<ul>
-   <li>
-crypto.cf: ([coindex](https://coindex.cf) first version) top 100 cryptocurrency list app. made with coingecko free API: [crypto.cf](https://crypto.cf)   
-   </li>
-</ul>
-crypto.cf: ([coindex](https://coindex.cf) first version) top 100 cryptocurrency list app. made with coingecko free API: [crypto.cf](https://crypto.cf)
+[crypto.cf](https://crypto.cf) - ([coindex](https://coindex.cf) first version) top 100 cryptocurrency list app. made with coingecko free API
 <br/>
-playjs: simple doodle jump game - PURE JavaScript: [playjs.cf](https://playjs.cf/) 
+[playjs.cf](https://playjs.cf/) - simple doodle jump game - PURE JavaScript.
 <br/>
-tesla website - model 3 page clone (html,css): [homepage](https://gurelbs.github.io/tesla/)
+[tesla website](https://gurelbs.github.io/tesla/) - tesla website model 3 page clone (html,css).
 <br/>
-netflix homepage clone (html,css): [homepage](https://gurelbs.github.io/netflix/) [source code](https://github.com/gurelbs/netflix)
+[netflix homepage](https://gurelbs.github.io/netflix/) - netflix homepage clone (html,css). source code [here](https://github.com/gurelbs/netflix).
 <br/>
-erroca homepage clone (html,css): [homepage](https://gurelbs.github.io/erroca/) [source code](https://github.com/gurelbs/erroca)
+[erroca](https://gurelbs.github.io/erroca/) - erroca homepage clone (html,css). source code [here](https://github.com/gurelbs/erroca).
 <br/>
-bootstrap simple web tamplate: [link](https://devtools.cf/)
+[bootstrap templete](https://devtools.cf/) bootstrap simple web tamplate.
 <br/>
-simple to-do app: [link](https://gurelbs.github.io/matala/)
+[matala](https://gurelbs.github.io/matala/) simple to-do app.
 <br/>
-to-do app with DB: [link](https://ptakim.herokuapp.com/)
+[TO-DO](https://ptakim.herokuapp.com/) to-do app with DB.
 <br/>
-google search - hebrew speech recognition: [link](https://gurelbs.github.io/transcript/)
+[google search by voice](https://gurelbs.github.io/transcript/) google search app with auto speech recognition.
 <br/>
-hebrew auto-transcript: [link](https://gurelbs.github.io/hebrew/)
+[auto-transcript](https://gurelbs.github.io/hebrew/) hebrew auto transcript app with speech recognition.
