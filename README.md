@@ -113,7 +113,7 @@
    </table>
 </details>
 
-## other project:
+### more projects:
 [crypto.cf](https://crypto.cf) - ([coindex](https://coindex.cf) first version) top 100 cryptocurrency list app. made with coingecko free API
 <br/>
 [playjs.cf](https://playjs.cf/) - simple doodle jump game - PURE JavaScript.
