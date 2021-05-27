@@ -48,7 +48,8 @@
           <td><a href="https://speakly.cf">speakly.cf</a></td>
           <td><a href="https://github.com/gurelbs/speakly">gurelbs/speakly</a></td>
           <td>
-             <img src="https://img.shields.io/badge/html-green" alt="html-tag"/>
+             
+             <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html-tag"/>
              <img src="https://img.shields.io/badge/node.js-green" alt="html-tag"/>
              <img src="https://img.shields.io/badge/react.js-green" alt="html-tag"/>
              <img src="https://img.shields.io/badge/puppeteer-green" alt="html-tag"/>
