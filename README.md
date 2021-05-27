@@ -3,8 +3,7 @@
    <div align="right" width="50%">
       <img width="auto" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
       <div align="right" width="50%">
-         <p>Visitor's Count:</p>
-         <img src="https://profile-counter.glitch.me/{gurelbs}/count.svg" alt="Visitor's Count" />
+         <p>Visitor's Count: <img src="https://profile-counter.glitch.me/{gurelbs}/count.svg" alt="Visitor's Count" /></p>
       </div>
    </div>
 </div>
