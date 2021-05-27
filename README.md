@@ -110,6 +110,11 @@
 </details>
 
 ## other project:
+<ul>
+   <li>
+crypto.cf: ([coindex](https://coindex.cf) first version) top 100 cryptocurrency list app. made with coingecko free API: [crypto.cf](https://crypto.cf)   
+   </li>
+</ul>
 crypto.cf: ([coindex](https://coindex.cf) first version) top 100 cryptocurrency list app. made with coingecko free API: [crypto.cf](https://crypto.cf)
 <br/>
 playjs: simple doodle jump game - PURE JavaScript: [playjs.cf](https://playjs.cf/) 
