@@ -39,12 +39,14 @@
       <br />
       <tr>
          <th>Name</th>
-         <th>Homepage</th>
+         <th>Description</th>
+         <th>🏠 Homepage</th>
          <th>Repository</th>
          <th>Tags</th>
       </tr>
        <tr>
-         <td>speakly</td>
+         <td>Speakly</td>
+          <td>hebrew virtual voice assistant (chrome app)</td>
           <td><a href="https://speakly.cf">speakly.cf</a></td>
           <td><a href="https://github.com/gurelbs/speakly">gurelbs/speakly</a></td>
           <td>
