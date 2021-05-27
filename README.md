@@ -1,10 +1,10 @@
-<div align="left" width="50%">
-   <h1>I'M Gurel. Full-stack Web Developer.</h1>
-   <a href="https://github.com/gurelbs">
+<div width="100%">
+   <h1 align="left" width="50%">I'M Gurel. Full-stack Web Developer.</h1>
+   <a align="right" href="https://github.com/gurelbs">
    <img width="auto" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
 </a>
 </div>
-<p align="right" width="50%"><img src="https://profile-counter.glitch.me/{gurelbs}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center" width="100%"><img src="https://profile-counter.glitch.me/{gurelbs}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 
 # TOP PROJECTS:
