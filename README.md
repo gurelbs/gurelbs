@@ -26,9 +26,10 @@
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
    </div>
 </div>
-<details>
-<summary style="font-size:3rem;">Projects</summary>
-   <table style="align:center;border-collapse:collapse;border-spacing: 0;width: 100%;border: 1px solid #ddd;">
+# Projects:
+<details  width="100%" align="center">
+<summary style="font-size:3rem;">Click To Show All Projects:</summary>
+   <table width="100%" align="center" style="border-collapse:collapse;border-spacing: 0;border: 1px solid #ddd;">
       <tr>
          <th>Name</th>
          <th>Homepage</th>
@@ -48,9 +49,6 @@
          </td>
       </tr>
    </table>
-| Project | Tags
-| --- | --- |
-| [speakly: ](https://github.com/MaartenGr/BERTopic) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-cTFIDF-red"> <img src="https://img.shields.io/badge/-UMAP-81D4FA"> <img src="https://img.shields.io/badge/-HDBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
 </details>
 
 # TOP PROJECTS:
