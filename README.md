@@ -2,10 +2,10 @@
    <div align="left" width="50%">I'M Gurel. Full-stack Web Developer.</div>
    <div align="right" width="50%">
       <img width="auto" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
-    <p align="center" width="50%">
-       Visitor's Count:
-      <img src="https://profile-counter.glitch.me/{gurelbs}/count.svg" alt="Visitor's Count" />
-   </p>
+      <div align="right" width="50%">
+         <p align="center" width="100%">Visitor's Count:</p>
+         <img src="https://profile-counter.glitch.me/{gurelbs}/count.svg" alt="Visitor's Count" />
+      </div>
    </div>
 </div>
 
