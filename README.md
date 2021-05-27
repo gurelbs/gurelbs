@@ -28,6 +28,20 @@
 </div>
 <details>
 <summary>Projects</summary>
+   <table>
+      <tr>
+         <th>name</th>
+         <th>demo</th>
+         <th>code</th>
+         <th>tags</th>
+      </tr>
+       <tr>
+         <td>speakly</td>
+          <td><a href="https://speakly.cf">speakly.cf</a></td>
+          <td><a href="https://github.com/gurelbs/speakly">gurelbs/speakly</a></td>
+          <td>node.js,react.js,mongoose,puppeteer,socket.io,WEB API</td>
+      </tr>
+   </table>
 | Project | Tags
 | --- | --- |
 | [speakly: ](https://github.com/MaartenGr/BERTopic) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-cTFIDF-red"> <img src="https://img.shields.io/badge/-UMAP-81D4FA"> <img src="https://img.shields.io/badge/-HDBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
