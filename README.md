@@ -1,8 +1,10 @@
-## I'M Gurel. Full-stack Web Developer.
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://gurel.cf)
+<div align="center">
+   <h2>I'M Gurel. Full-stack Web Developer.</h2>
+   [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://gurel.cf)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gurelbs)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gurebs/)
-
+>
+</div>
 <div width="100%">
    <img width="40%" align="right" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
     <div align="left" width="40%">
