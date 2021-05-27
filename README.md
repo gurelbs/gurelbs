@@ -1,7 +1,13 @@
 # I'M Gurel. Full-stack Web Developer.
 <p align="center"><img src="https://profile-counter.glitch.me/{gurelbs}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 <a href="https://github.com/gurelbs">
-   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
+   <img width="50%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github.com/gurelbs">
+   <div>
+   ![trophy](https://github-profile-trophy.vercel.app/?username=gurelbs)](https://github.com/gurelbs)
+
+   </div>
 </a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=gurelbs)](https://github.com/gurelbs)
