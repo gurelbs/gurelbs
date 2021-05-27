@@ -110,13 +110,22 @@
 </details>
 
 ## other project:
-crypto.cf: ([coindex](https://coindex.cf) first version) top 100 cryptocurrency list app. made with coingecko free API: [crypto.cf](https://crypto.cf) 
+crypto.cf: ([coindex](https://coindex.cf) first version) top 100 cryptocurrency list app. made with coingecko free API: [crypto.cf](https://crypto.cf)
+<br/>
 playjs: simple doodle jump game - PURE JavaScript: [playjs.cf](https://playjs.cf/) 
+<br/>
 tesla website - model 3 page clone (html,css): [homepage](https://gurelbs.github.io/tesla/)
+<br/>
 netflix homepage clone (html,css): [homepage](https://gurelbs.github.io/netflix/) [source code](https://github.com/gurelbs/netflix)
+<br/>
 erroca homepage clone (html,css): [homepage](https://gurelbs.github.io/erroca/) [source code](https://github.com/gurelbs/erroca)
+<br/>
 bootstrap simple web tamplate: [link](https://devtools.cf/)
+<br/>
 simple to-do app: [link](https://gurelbs.github.io/matala/)
+<br/>
 to-do app with DB: [link](https://ptakim.herokuapp.com/)
+<br/>
 google search - hebrew speech recognition: [link](https://gurelbs.github.io/transcript/)
+<br/>
 hebrew auto-transcript: [link](https://gurelbs.github.io/hebrew/)
