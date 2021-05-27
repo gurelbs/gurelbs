@@ -28,7 +28,7 @@
 </div>
 <details>
 <summary style="font-size:3rem;">Projects</summary>
-   <table width="100%" align="center">
+   <table style="align:center;border-collapse:collapse;border-spacing: 0;width: 100%;border: 1px solid #ddd;">
       <tr>
          <th>Name</th>
          <th>Homepage</th>
