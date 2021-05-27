@@ -3,12 +3,6 @@
 <a href="https://github.com/gurelbs">
    <img width="50%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
 </a>
-<a href="https://github.com/gurelbs">
-   <div>
-   ![trophy](https://github-profile-trophy.vercel.app/?username=gurelbs)](https://github.com/gurelbs)
-
-   </div>
-</a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=gurelbs)](https://github.com/gurelbs)
 
