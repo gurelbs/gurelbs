@@ -38,11 +38,11 @@
    <table width="100%" align="center" style="border-collapse:collapse;border-spacing: 0;border: 1px solid #ddd;">
       <br />
       <tr>
-         <th>Name</th>
+         <th>&#128187; Name</th>
          <th>&sstarf; Description</th>
-         <th>🏠 Homepage</th>
-         <th>Repository</th>
-         <th>Tags</th>
+         <th>&#128214;🏠 Homepage</th>
+         <th>&#128214; Repository</th>
+         <th>&#128206; Tags</th>
       </tr>
        <tr>
          <td>Speakly</td>
