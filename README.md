@@ -5,9 +5,13 @@
 </div>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gurelbs)
+ &nbsp;
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gurelbs/)
+ &nbsp;
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://gurel.cf)
-
+ &nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-guri240@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guri240@gmail.com)](mailto:guri240@gmail.com)
+ &nbsp;
 <div width="100%">
    <img width="40%" align="right" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
     <div align="left" width="40%">
