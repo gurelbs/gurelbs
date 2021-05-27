@@ -1,6 +1,6 @@
 <div align="center">
    <h2>I'M Gurel. Full-stack Web Developer.</h2>
-   [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://gurel.cf)
+   <a href="https://gurel.cf" src="https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white">Portfolio</a>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gurelbs)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gurebs/)
 >
