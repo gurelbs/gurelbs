@@ -1,6 +1,7 @@
 <div align="center">
    <h2>hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'M Gurel</h2>
-   <code lign="center" width="100%">Full-stack Web Developer.</code>
+   <code align="center" width="100%">Full-stack Web Developer.</code>
+   <br/>
    <a href="https://gurel.cf" src="https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white">Portfolio</a>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gurelbs)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gurebs/)
