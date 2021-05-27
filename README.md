@@ -1,7 +1,7 @@
 # I'M Gurel. Full-stack Web Developer.
-<p align="center"><img src="https://profile-counter.glitch.me/{gurelbs}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="right" width="50%"><img src="https://profile-counter.glitch.me/{gurelbs}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 <a href="https://github.com/gurelbs">
-   <img width="100%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
+   <img width="50%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
 </a>
 
 # TOP PROJECTS:
