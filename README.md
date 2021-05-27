@@ -110,40 +110,13 @@
 </details>
 
 ## other project:
-
-##### hebrew.cf ( [speakly](https://speakly.cf) first version )
-> voice assistant in Hebrew that can find anything on Google, YouTube, Wikipedia and more custom voice commands.
-> [hebrew.cf](https://hebrew.cf)
-
-##### crypto.cf ( [coindex](https://coindex.cf) first version )
-> online website for the top 100 current cryptocurrency. made with coingecko free API. 
-> [crypto.cf](https://crypto.cf)
-> 
-##### playjs
-> simple doodle jump game - PURE JavaScript
-> [playjs.cf](https://playjs.cf/) 
-
-##### tesla website
-> tesla model 3 page clone (html,css):
-> [homepage](https://gurelbs.github.io/tesla/)
-
-##### netflix website
-> netflix home page clone (html,css): 
-> [homepage](https://gurelbs.github.io/netflix/)
-> [source code](https://github.com/gurelbs/netflix)
-
-##### erroca website:
-> erroca homepage clone (html,css):
-> [homepage](https://gurelbs.github.io/erroca/)
-> [source code](https://github.com/gurelbs/erroca)
-
-##### bootstrap simple web tamplate: 
-> [link](https://devtools.cf/)
-##### simple to-do app: 
-> [link](https://gurelbs.github.io/matala/)
-##### to-do app with DB: 
-> [link](https://ptakim.herokuapp.com/)
-##### google search - hebrew speech recognition: 
-> [link](https://gurelbs.github.io/transcript/)
-##### hebrew auto-transcript:
-> [link](https://gurelbs.github.io/hebrew/)
+crypto.cf: ([coindex](https://coindex.cf) first version) top 100 cryptocurrency list app. made with coingecko free API: [crypto.cf](https://crypto.cf) 
+playjs: simple doodle jump game - PURE JavaScript: [playjs.cf](https://playjs.cf/) 
+tesla website - model 3 page clone (html,css): [homepage](https://gurelbs.github.io/tesla/)
+netflix homepage clone (html,css): [homepage](https://gurelbs.github.io/netflix/) [source code](https://github.com/gurelbs/netflix)
+erroca homepage clone (html,css): [homepage](https://gurelbs.github.io/erroca/) [source code](https://github.com/gurelbs/erroca)
+bootstrap simple web tamplate: [link](https://devtools.cf/)
+simple to-do app: [link](https://gurelbs.github.io/matala/)
+to-do app with DB: [link](https://ptakim.herokuapp.com/)
+google search - hebrew speech recognition: [link](https://gurelbs.github.io/transcript/)
+hebrew auto-transcript: [link](https://gurelbs.github.io/hebrew/)
