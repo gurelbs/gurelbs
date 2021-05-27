@@ -27,11 +27,16 @@
    </div>
 </div>
 
+# About me:
+
 # Projects:
 
 <details  width="100%" align="center">
+   <br />
 <button  width="100%" align="center"><summary style="font-size:3rem;">Click To Show All Projects:</summary></button>
+   <br />
    <table width="100%" align="center" style="border-collapse:collapse;border-spacing: 0;border: 1px solid #ddd;">
+      <br />
       <tr>
          <th>Name</th>
          <th>Homepage</th>
