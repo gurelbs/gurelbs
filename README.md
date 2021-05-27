@@ -3,6 +3,7 @@
    <code align="center" width="100%">Full-stack Web Developer.</code>
    <br/><br/>
 </div>
+<div align="center">
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gurelbs)
  &nbsp;
@@ -10,6 +11,9 @@
  &nbsp;
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://gurel.cf)
  &nbsp;
+  
+</div>
+
 [![Gmail Badge](https://img.shields.io/badge/-guri240@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guri240@gmail.com)](mailto:guri240@gmail.com)
  &nbsp;
 <div width="100%">
