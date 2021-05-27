@@ -30,16 +30,22 @@
 <summary style="font-size:3rem;">Projects</summary>
    <table width="100%" align="center">
       <tr>
-         <th>name</th>
-         <th>demo</th>
-         <th>code</th>
-         <th>tags</th>
+         <th>Name</th>
+         <th>Homepage</th>
+         <th>Repository</th>
+         <th>Tags</th>
       </tr>
        <tr>
          <td>speakly</td>
           <td><a href="https://speakly.cf">speakly.cf</a></td>
           <td><a href="https://github.com/gurelbs/speakly">gurelbs/speakly</a></td>
-          <td>node.js,react.js,mongoose,puppeteer,socket.io,WEB API</td>
+          <td>
+             <img src="https://img.shields.io/badge/html-green" alt="html-tag"/>
+             <img src="https://img.shields.io/badge/node.js-green" alt="html-tag"/>
+             <img src="https://img.shields.io/badge/react.js-green" alt="html-tag"/>
+             <img src="https://img.shields.io/badge/puppeteer-green" alt="html-tag"/>
+             <img src="https://img.shields.io/badge/socket.io-green" alt="html-tag"/>
+         </td>
       </tr>
    </table>
 | Project | Tags
