@@ -20,8 +20,8 @@
 <h1>Languages & Tools 🚀</h1>
 
 <div width="100%">
-   <img width="40%" align="right" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
-   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+   <img width="20%" align="right" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
+   <img height="auto" width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
     <div align="left" width="60%">
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
