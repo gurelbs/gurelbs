@@ -59,16 +59,14 @@
    <table width="100%" align="center" style="border-collapse:collapse;border-spacing: 0;border: 1px solid #ddd;">
       <br />
       <tr>
-         <th>&#128187; Name</th>
+         <th>&#127969; Name / Homepage</th>
          <th>&sstarf; Description</th>
-         <th>&#127969; Homepage</th>
          <th>&#128214; Repository</th>
          <th>&#128206; Tags</th>
       </tr>
        <tr align="left">
-         <td>Speakly</td>
+         <td><a href="https://speakly.cf">Speakly</a></td>
           <td>hebrew virtual voice assistant </br>(chrome app)</td>
-          <td><a href="https://speakly.cf">speakly.cf</a></td>
           <td><a href="https://github.com/gurelbs/speakly">gurelbs/speakly</a></td>
           <td>
              <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="html-tag"/>
@@ -78,9 +76,8 @@
          </td>
       </tr>
        <tr align="left">
-         <td>Ecode</td>
+         <td><a href="https://ecode.cf">Ecode</a></td>
           <td>online code editor (HTML+CSS+JS) with hot reloaded and auto-save</td>
-          <td><a href="https://ecode.cf">ecode.cf</a></td>
           <td><a href="https://github.com/gurelbs/ecode">gurelbs/ecode</a></td>
           <td>
              <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="html-tag"/>
@@ -88,9 +85,8 @@
          </td>
       </tr>
       <tr align="left">
-         <td>Milim</td>
+         <td><a href="https://milim.cf">Milim</a></td>
           <td>speech recognition and automatic translation to Hebrew with Voice commands. </br>(chrome app)</td>
-          <td><a href="https://milim.cf">milim.cf</a></td>
           <td><a href="https://github.com/gurelbs/milim/tree/master">gurelbs/milim</a></td>
           <td>
              <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="node.js"/>
@@ -98,9 +94,8 @@
          </td>
       </tr>
       <tr align="left">
-         <td>Coindex</td>
+         <td><a href="https://coindex.cf">Coindex</a></td>
           <td>EXPLORE THE CRYPTO UNIVERSE! • 1-week project, using mock-API, and coingecko-API </td>
-          <td><a href="https://coindex.cf">coindex.cf</a></td>
           <td><a href="https://github.com/gurelbs/coindex/tree/main">gurelbs/coindex</a></td>
           <td>
              <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="node.js"/>
@@ -108,9 +103,8 @@
          </td>
       </tr>
        <tr align="left">
-         <td>Covidata</td>
+         <td><a href="https://covidata.cf">Covidata</a></td>
           <td>Covidata is a website for updated information & Statistics about the covid-19 • Done in 72 hours.</td>
-          <td><a href="https://covidata.cf">covidata.cf</a></td>
           <td><a href="https://github.com/gurelbs/CovidAPI">gurelbs/CovidAPI</a></td>
           <td>
              <img src="https://img.shields.io/badge/-chart.js-eee?style=flat&logo=chart-dot-js" alt="chart-js-tag"/>
@@ -119,9 +113,8 @@
          </td>
       </tr>
        <tr align="left">
-         <td>Minecrafti</td>
+         <td><a href="https://minecrafti.cf">Minecrafti</a></td>
           <td>my version of the Minecraft game! • Pure JavaScript. • Done in 72 hours.</td>
-          <td><a href="https://minecrafti.cf">minecrafti.cf</a></td>
           <td><a href="https://github.com/gurelbs/minecraft">gurelbs/minecrafti</a></td>
           <td>
              <img src="https://img.shields.io/badge/-javascript-eee?style=flat&logo=javascript" alt="javascript-tag"/>
