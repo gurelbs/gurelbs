@@ -31,7 +31,7 @@
 
 <h1>About me</h1>
 
-- 🔭 I’m 26 yeras old, from israel <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"/>
+- 🔭 I’m 26 yeras old, from israel <img width="15px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"/>
 - 🔭 I’m currently Open To Work
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on **Full/MERN-Stack, Front-End or Back-End Development**  
