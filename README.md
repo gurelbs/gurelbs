@@ -60,7 +60,7 @@
       <br />
       <tr>
          <th>&#127969; Name / Homepage</th>
-         <th>&sstarf; Description</th>
+         <th width="50%">&sstarf; Description</th>
          <th>&#128214; Repository</th>
          <th>&#128206; Tags</th>
       </tr>
