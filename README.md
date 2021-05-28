@@ -17,7 +17,7 @@
    
 </div>
 
-<h1>Languages & Tools 🚀</h1>
+# Languages & Tools 🚀
 
 <div width="100%">
     <div align="center" width="100%">
@@ -32,11 +32,14 @@
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
    </div>
    <img width="45%" align="right" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
-   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&layout=compact&langs_count=8&theme=graywhite" />
+   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&layout=compact&langs_count=8&theme=graywhite&hide=html" />
 <br/><br/>
 </div>
-<!--  &hide=html&hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff -->
-<h1>About me 💎</h1>
+<!--  &hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff -->
+
+
+# About me 💎
+
 
 - 🌎 I’m 26 yeras old, from israel <img width="15px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"/>
 - 🧭 I’m currently Open To Work
