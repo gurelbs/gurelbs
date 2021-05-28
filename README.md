@@ -14,6 +14,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-guri240@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guri240@gmail.com)](mailto:guri240@gmail.com)
 
 </div>
+
+<h1>Languages & Tools</h1>
+
 <div width="100%">
    <img width="40%" align="right" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
     <div align="left" width="60%">
@@ -31,10 +34,10 @@
 
 <h1>About me</h1>
 
-- 🔭 I’m 26 yeras old, from israel <img width="15px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"/>
-- 🔭 I’m currently Open To Work
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on **Full/MERN-Stack, Front-End or Back-End Development**  
+- 🌎 I’m 26 yeras old, from israel <img width="15px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"/>
+- 🧭 I’m currently Open To Work
+- 🌱 I’m currently learning more about Advanced JavaScript Concepts. 
+- 👯 I’m looking to collaborate on **Full/MERN-Stack, Front-End or Back-End Development**
 
 <details  width="100%" align="center">
    <br />
