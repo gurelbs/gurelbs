@@ -65,7 +65,7 @@
          <th>&#128214; Repository</th>
          <th>&#128206; Tags</th>
       </tr>
-       <tr>
+       <tr align="left">
          <td>Speakly</td>
           <td>hebrew virtual voice assistant </br>(chrome app)</td>
           <td><a href="https://speakly.cf">speakly.cf</a></td>
@@ -77,7 +77,7 @@
              <img src="https://img.shields.io/badge/-socket.io-green?style=flat&logo=socket-dot-io&logoColor=blue" alt="socket-io-tag"/>
          </td>
       </tr>
-       <tr>
+       <tr align="left">
          <td>Ecode</td>
           <td>online code editor (HTML+CSS+JS) with hot reloaded and auto-save</td>
           <td><a href="https://ecode.cf">ecode.cf</a></td>
@@ -87,7 +87,7 @@
              <img src="https://img.shields.io/badge/-react.js-aqua?style=flat&logo=react&logoColor=black" alt="react-tag"/>
          </td>
       </tr>
-      <tr>
+      <tr align="left">
          <td>Milim</td>
           <td>speech recognition and automatic translation to Hebrew with Voice commands. </br>(chrome app)</td>
           <td><a href="https://milim.cf">milim.cf</a></td>
@@ -97,7 +97,7 @@
              <img src="https://img.shields.io/badge/-react.js-aqua?style=flat&logo=react&logoColor=black" alt="react-tag"/>
          </td>
       </tr>
-      <tr>
+      <tr align="left">
          <td>Coindex</td>
           <td>EXPLORE THE CRYPTO UNIVERSE! • 1-week project, using mock-API, and coingecko-API </td>
           <td><a href="https://coindex.cf">coindex.cf</a></td>
@@ -107,7 +107,7 @@
              <img src="https://img.shields.io/badge/-react.js-aqua?style=flat&logo=react&logoColor=black" alt="react-tag"/>
          </td>
       </tr>
-       <tr>
+       <tr align="left">
          <td>Covidata</td>
           <td>Covidata is a website for updated information & Statistics about the covid-19 • Done in 72 hours.</td>
           <td><a href="https://covidata.cf">covidata.cf</a></td>
@@ -118,7 +118,7 @@
              <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="html-tag"/>
          </td>
       </tr>
-       <tr>
+       <tr align="left">
          <td>Minecrafti</td>
           <td>my version of the Minecraft game! • Pure JavaScript. • Done in 72 hours.</td>
           <td><a href="https://minecrafti.cf">minecrafti.cf</a></td>
