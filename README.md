@@ -31,10 +31,12 @@
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
    </div>
-   <img width="45%" align="right" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
-   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&layout=compact&langs_count=8&theme=graywhite&hide=html" />
-<br/><br/>
+   <div align="center width=100%">
+      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&layout=compact&langs_count=8&theme=graywhite&hide=html" />
+      <img width="45%" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
+   </div>
 </div>
+<br/><br/>
 <!--  &hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff -->
 
 
