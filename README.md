@@ -32,6 +32,7 @@
      <code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
      <code><img width="12%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
    </div>
+    <br/><br/>
    <div align="center width=100%">
       <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&layout=compact&langs_count=8&theme=graywhite&hide=html" />
       <img width="48%" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
