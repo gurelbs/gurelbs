@@ -14,8 +14,7 @@
  &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-guri240@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guri240@gmail.com)](mailto:guri240@gmail.com)
 &nbsp;
-[![visitors]](https://visitor-badge.laobi.icu/badge?page_id=gurelbs.gurelbs)
-&nbsp;
+[visitors](https://visitor-badge.laobi.icu/badge?page_id=gurelbs.gurelbs)
    
 </div>
 
@@ -34,8 +33,8 @@
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
    </div>
    <div align="center width=100%">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&layout=compact&langs_count=8&theme=graywhite&hide=html" />
-      <img width="45%" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&layout=compact&langs_count=8&theme=graywhite&hide=html" />
+      <img  alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
    </div>
 </div>
 <br/><br/>
