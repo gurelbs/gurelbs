@@ -13,8 +13,8 @@
  &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-guri240@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guri240@gmail.com)](mailto:guri240@gmail.com)
 &nbsp;
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gurelbs.gurelbs)
-   
+[![visitors]](https://visitor-badge.laobi.icu/badge?page_id=gurelbs.gurelbs)
+&nbsp;
 </div>
 
 # Languages & Tools 🚀
