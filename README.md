@@ -3,8 +3,8 @@
    <code align="center" width="100%">Full-stack Web Developer.</code>
    <br/><br/>
 </div>
-<div align="center">
 
+<div align="center">
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gurelbs)
  &nbsp;
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gurelbs/)
@@ -32,9 +32,10 @@
      <code><img width="12.5%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
    </div>
    <img width="45%" align="right" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
-   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&layout=compact&langs_count=8&theme=graywhite" />
+<br/><br/>
 </div>
-
+<!--  &hide=html&hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff -->
 <h1>About me 💎</h1>
 
 - 🌎 I’m 26 yeras old, from israel <img width="15px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"/>
