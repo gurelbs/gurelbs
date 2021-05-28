@@ -12,10 +12,12 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://gurel.cf)
  &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-guri240@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guri240@gmail.com)](mailto:guri240@gmail.com)
-
+&nbsp;
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gurelbs.gurelbs)
+   
 </div>
 
-<h1>Languages & Tools</h1>
+<h1>Languages & Tools 🚀</h1>
 
 <div width="100%">
    <img width="40%" align="right" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
@@ -32,7 +34,7 @@
    </div>
 </div>
 
-<h1>About me</h1>
+<h1>About me 💎</h1>
 
 - 🌎 I’m 26 yeras old, from israel <img width="15px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"/>
 - 🧭 I’m currently Open To Work
