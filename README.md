@@ -31,8 +31,6 @@
      <code><img width="12%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
      <code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
      <code><img width="12%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-        <code><img width="12%" src="https://www.vectorlogo.zone/logos/css3/css3.svg"></code>
-     <code><img width="12%" src="https://www.vectorlogo.zone/logos/html5/html5.svg"></code>
    </div>
     <br/><br/>
    <div align="center width=100%">
