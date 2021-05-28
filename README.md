@@ -107,8 +107,8 @@
           <td>Covidata is a website for updated information & Statistics about the covid-19 • Done in 72 hours.</td>
           <td><a href="https://github.com/gurelbs/CovidAPI">gurelbs/CovidAPI</a></td>
           <td>
-             <img src="https://img.shields.io/badge/-chart.js-eee?style=flat&logo=chart-dot-js" alt="chart-js-tag"/>
-             <img src="https://img.shields.io/badge/-javascript-eee?style=flat&logo=javascript" alt="javascript-tag"/>
+             <img src="https://img.shields.io/badge/-chart.js-pink?style=flat&logo=chart-dot-js" alt="chart-js-tag"/>
+             <img src="https://img.shields.io/badge/-javascript-green?style=flat&logo=javascript&logoColor=e3e3e3" alt="javascript-tag"/>
              <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="html-tag"/>
          </td>
       </tr>
@@ -117,7 +117,7 @@
           <td>my version of the Minecraft game! • Pure JavaScript. • Done in 72 hours.</td>
           <td><a href="https://github.com/gurelbs/minecraft">gurelbs/minecrafti</a></td>
           <td>
-             <img src="https://img.shields.io/badge/-javascript-eee?style=flat&logo=javascript" alt="javascript-tag"/>
+             <img src="https://img.shields.io/badge/-javascript-green?style=flat&logo=javascript&logoColor=e3e3e3" alt="javascript-tag"/>
          </td>
       </tr>
    </table>
