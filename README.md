@@ -93,38 +93,38 @@
           <td><a href="https://milim.cf">milim.cf</a></td>
           <td><a href="https://github.com/gurelbs/milim/tree/master">gurelbs/milim</a></td>
           <td>
-             <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="html-tag"/>
+             <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="node.js"/>
              <img src="https://img.shields.io/badge/-react.js-aqua?style=flat&logo=react&logoColor=black" alt="react-tag"/>
          </td>
       </tr>
       <tr>
-         <td>Aristo</td>
-          <td>App for philosophical terms, ideas and theories from ancient Greece to modern times. </td>
-          <td><a href="https://aristo.cf">aristo.cf</a></td>
-          <td><a href="https://github.com/gurelbs/aristo/tree/master">gurelbs/aristo</a></td>
+         <td>Coindex</td>
+          <td>EXPLORE THE CRYPTO UNIVERSE! • 1-week project, using mock-API, and coingecko-API </td>
+          <td><a href="https://coindex.cf">coindex.cf</a></td>
+          <td><a href="https://github.com/gurelbs/coindex/tree/main">gurelbs/coindex</a></td>
           <td>
-             <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="html-tag"/>
+             <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="node.js"/>
              <img src="https://img.shields.io/badge/-react.js-aqua?style=flat&logo=react&logoColor=black" alt="react-tag"/>
          </td>
       </tr>
        <tr>
-         <td>Aristo</td>
-          <td>App for philosophical terms, ideas and theories from ancient Greece to modern times. </td>
-          <td><a href="https://aristo.cf">aristo.cf</a></td>
-          <td><a href="https://github.com/gurelbs/aristo/tree/master">gurelbs/aristo</a></td>
+         <td>Covidata</td>
+          <td>Covidata is a website for updated information & Statistics about the covid-19 • Done in 72 hours.</td>
+          <td><a href="https://covidata.cf">covidata.cf</a></td>
+          <td><a href="https://github.com/gurelbs/CovidAPI">gurelbs/CovidAPI</a></td>
           <td>
+             <img src="https://img.shields.io/badge/-chart.js-eee?style=flat&logo=chart-dot-js" alt="chart-js-tag"/>
+             <img src="https://img.shields.io/badge/-javascript-eee?style=flat&logo=javascript" alt="javascript-tag"/>
              <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="html-tag"/>
-             <img src="https://img.shields.io/badge/-react.js-aqua?style=flat&logo=react&logoColor=black" alt="react-tag"/>
          </td>
       </tr>
        <tr>
-         <td>Aristo</td>
-          <td>App for philosophical terms, ideas and theories from ancient Greece to modern times. </td>
-          <td><a href="https://aristo.cf">aristo.cf</a></td>
-          <td><a href="https://github.com/gurelbs/aristo/tree/master">gurelbs/aristo</a></td>
+         <td>Minecrafti</td>
+          <td>my version of the Minecraft game! • Pure JavaScript. • Done in 72 hours.</td>
+          <td><a href="https://minecrafti.cf">minecrafti.cf</a></td>
+          <td><a href="https://github.com/gurelbs/minecraft">gurelbs/minecrafti</a></td>
           <td>
-             <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="html-tag"/>
-             <img src="https://img.shields.io/badge/-react.js-aqua?style=flat&logo=react&logoColor=black" alt="react-tag"/>
+             <img src="https://img.shields.io/badge/-javascript-eee?style=flat&logo=javascript" alt="javascript-tag"/>
          </td>
       </tr>
    </table>
