@@ -66,7 +66,7 @@
       </tr>
        <tr align="left">
          <td><a href="https://speakly.cf">Speakly</a></td>
-          <td>hebrew virtual voice assistant </br>(chrome app)</td>
+          <td>'Speakly' It is a voice assistant in Hebrew that is able to answer questions about Weather, translate words from different languages, currency exchange, stock information, and other tasks like searching on Google, YouTube, or Wikipedia. the website includes 2 other pages; fun snake game with voice commands and auto trnaslator. (chrome app)</td>
           <td><a href="https://github.com/gurelbs/speakly">gurelbs/speakly</a></td>
           <td>
              <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="html-tag"/>
