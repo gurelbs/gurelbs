@@ -36,8 +36,8 @@
       <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&layout=compact&langs_count=8&theme=graywhite&hide=html" />
       <img width="48%" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
    </div>
+   <br/><br/>
 </div>
-<br/><br/>
 <!--  &hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff -->
 
 
