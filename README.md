@@ -109,7 +109,6 @@
           <td>
              <img src="https://img.shields.io/badge/-chart.js-pink?style=flat&logo=chart-dot-js" alt="chart-js-tag"/>
              <img src="https://img.shields.io/badge/-javascript-green?style=flat&logo=javascript&logoColor=e3e3e3" alt="javascript-tag"/>
-             <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="html-tag"/>
          </td>
       </tr>
        <tr align="left">
