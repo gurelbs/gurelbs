@@ -34,12 +34,12 @@
    </div>
     <br/><br/>
    <div align="center" width="100%" style="display:flex">
-      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&theme=graywhite&hide=html&layout=compact" />
+      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&theme=graywhite&layout=compact" />
       <img height="200px" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
    </div>
    <br/><br/>
 </div>
-<!-- &layout=compact&langs_count=8  &layout=compact-->
+<!-- &layout=compact&langs_count=8  &layout=compact &hide=html-->
 <!--  &hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff -->
 
 
