@@ -15,7 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-guri240@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guri240@gmail.com)](mailto:guri240@gmail.com)
 &nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gurelbs.gurelbs)
-   
+[![](https://tokei.rs/b1/github/gurelbs)](https://github.com/gurelbs)  
 </div>
 
 # Languages & Tools 🚀
