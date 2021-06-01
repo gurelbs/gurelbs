@@ -34,8 +34,8 @@
    </div>
     <br/><br/>
    <div align="center" width="100%" style="display:flex">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&theme=graywhite&hide=html&layout=compact" />
-      <img height="100px" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
+      <img height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&theme=graywhite&hide=html&layout=compact" />
+      <img height="20%" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
    </div>
    <br/><br/>
 </div>
