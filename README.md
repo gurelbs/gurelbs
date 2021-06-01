@@ -34,7 +34,7 @@
    </div>
     <br/><br/>
    <div align="center" width="100%" style="display:flex">
-      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&theme=graywhite&layout=compact" />
+      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&theme=graywhite&layout=compact&hide=html" />
       <img height="200px" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
    </div>
    <br/><br/>
