@@ -33,8 +33,8 @@
      <code><img width="20%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
    </div>
     <br/><br/>
-   <div align="center width=100%">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&layout=compact&theme=graywhite&hide=html" />
+   <div align="center" width="100%" style="display:flex">
+      <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&layout=compact&theme=graywhite&hide=html" />
       <img width="48%" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
    </div>
    <br/><br/>
