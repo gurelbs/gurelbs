@@ -22,7 +22,7 @@
 
 <div width="100%">
     <div align="center" width="100%">
-     <code><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+     <code><img style="min-width:12%;width:24%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
      <code><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
      <code><img width="12%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
      <code><img width="12%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
