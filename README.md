@@ -70,7 +70,9 @@
           <td>Hebrew voice assistant app (able to; answer about the Weather, translate words, deal with currency exchange, stock information, search on Google, YouTube, or Wikipedia.) the website includes 2 other pages; fun snake game with voice commands and auto translator (speech to text). </br>(chrome app)</td>
           <td>
              <a href="https://github.com/gurelbs/speakly">gurelbs/speakly</a>
+             
              ![](https://tokei.rs/b1/github/gurelbs/speakly)
+             
          </td>
           <td>
              <img src="https://img.shields.io/badge/-node.js-eee?style=flat&logo=node-dot-js" alt="html-tag"/>
