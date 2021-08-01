@@ -128,6 +128,8 @@
 </details>
 
 ### more projects:
+[hebrew.cf](https://hebrew.cf) - [hebrew](https://hebrew.cf) simple hebrew speech to text app
+<br/>
 [crypto.cf](https://crypto.cf) - ([coindex](https://coindex.cf) first version) top 100 cryptocurrency list app. made with coingecko free API
 <br/>
 [playjs.cf](https://playjs.cf/) - simple doodle jump game - PURE JavaScript.
