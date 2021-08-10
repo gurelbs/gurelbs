@@ -89,6 +89,14 @@
              <img src="https://img.shields.io/badge/-react.js-aqua?style=flat&logo=react&logoColor=black" alt="react-tag"/>
          </td>
       </tr>
+     <tr align="left">
+         <td><a href="https://gamesDB.cf">GamesDB</a></td>
+          <td>online video games database website with more then 500,000 games, details, screenshots and trailers </td>
+          <td><a href="https://github.com/gurelbs/gamesDB">gurelbs/gamesDB</a></td>
+          <td>
+             <img src="https://img.shields.io/badge/-angular-669?style=flat&logo=angular" alt="angular-tag"/>
+         </td>
+      </tr>
       <tr align="left">
          <td><a href="https://milim.cf">Milim</a></td>
           <td>speech recognition and automatic translation to Hebrew with Voice commands. </br>(chrome app)</td>
