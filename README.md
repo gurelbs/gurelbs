@@ -54,8 +54,8 @@
 - 👯 I’m looking to collaborate on **Full/MERN-Stack, Front-End or Back-End Development**
 
 
-- 😎 <h4>I’m Working on my own cool npm packege!<h4>
-   <p>say hello to <code>hebrew-js</code>!</p>
+- 😎 I’m Working on my own cool npm packege!
+   say hello to <code>hebrew-js</code>!
    -  repo: [hebrew-js](https://github.com/gurelbs/hebrew-js)
    -  npm: https://www.npmjs.com/package/hebrew-js
  
