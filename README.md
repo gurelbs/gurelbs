@@ -50,9 +50,15 @@
 
 - 🌎 I’m 26 years old, from israel <img width="15px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"/>
 - 🧭 I’m currently Open To Work
-- 🌱 I’m currently learning more about Advanced JavaScript Concepts. 
+- 🌱 I’m currently learning angular, more about Advanced JavaScript Concepts. 
 - 👯 I’m looking to collaborate on **Full/MERN-Stack, Front-End or Back-End Development**
 
+- 😎 I’m Working on my own cool npm packege!
+   say hello to (hebrew-js)[https://github.com/gurelbs/hebrew-js]
+   https://www.npmjs.com/package/hebrew-js
+ 
+ ***
+ 
 <details  width="100%" align="center">
    <br />
 <summary style="font-size:3rem;">
