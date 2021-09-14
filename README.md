@@ -55,9 +55,9 @@
 
 
 - 😎 I’m Working on my own cool npm packege!
-   say hello to <code>hebrew-js</code>!
-   -  repo: [hebrew-js](https://github.com/gurelbs/hebrew-js)
-   -  npm: [npmjs.com/package/hebrew-js](https://www.npmjs.com/package/hebrew-js)
+   say hello to <code>hejs</code>!
+   -  repo: [hejs](https://github.com/gurelbs/hejs)
+   -  npm: [npmjs.com/package/hejs](https://www.npmjs.com/package/hejs)
  
  ***
  
