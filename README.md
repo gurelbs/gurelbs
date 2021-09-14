@@ -57,8 +57,9 @@
 ## 😎 I’m Working on my own cool npm packege!
 ### say hello to <code>hejs</code>!
 <p>
-   HeJS is a free <b>He</b>brew<b> J</b>ava<b>S</b>cript package for developer who want real-time data in hebrew for their website, like weather, translatuion, words meaning and more
+HeJS is a free Hebrew JavaScript package for developers who want real-time data in Hebrew for their website, like News, weather, translation, dictionary, bible search, and more
 </p>
+<br>
 -  repo: [hejs](https://github.com/gurelbs/hejs)
 -  npm: [npmjs.com/package/hejs](https://www.npmjs.com/package/hejs)
  
