@@ -148,7 +148,9 @@
    </table>
 </details>
 
-### more projects:
+### more projects: 
+[gurel.cf](https://gurel.cf) - my portfolio (backup website)
+<br/>
 [hebrew.cf](https://hebrew.cf) - simple hebrew speech to text app
 <br/>
 [crypto.cf](https://crypto.cf) - ([coindex](https://coindex.cf) first version) top 100 cryptocurrency list app. made with coingecko free API
