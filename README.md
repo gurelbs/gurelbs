@@ -61,7 +61,7 @@
 </p>
 <br>
 
-##### npm: [npmjs.com/package/hejs](https://www.npmjs.com/package/ivrit)
+##### npm: [npmjs.com/package/ivrit](https://www.npmjs.com/package/ivrit)
  
 ***
  
