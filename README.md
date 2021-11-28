@@ -55,14 +55,13 @@
 
 
 ## 😎 I’m Working on my own cool npm packege!
-### say hello to <code>hejs</code>!
+### say hello to <code>Ivrit</code>!
 <p>
-   HeJS is a free & open-source <b style="font-size:16px;">He</b>brew <b style="font-size:16px;">J</b>ava<b style="font-size:16px;">S</b>cript package for developers who want real-time data in Hebrew for their websites, like News, weather, translation, dictionary, bible search, and more
+   Ivrit is a free & open-source package for developers who want real-time data in Hebrew for their websites, like News, weather, translation, dictionary, bible search, and more
 </p>
 <br>
 
-##### repo: [hejs](https://github.com/gurelbs/hejs)
-##### npm: [npmjs.com/package/hejs](https://www.npmjs.com/package/hejs)
+##### npm: [npmjs.com/package/hejs](https://www.npmjs.com/package/ivrit)
  
 ***
  
