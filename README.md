@@ -149,6 +149,10 @@
 </details>
 
 ### more projects: 
+[catfact.cf](https://catfact.cf) - cats facts api
+<br/>
+[kulalike.cf](https://kulalike.cf) - Content Management System for [kulalike project](https://www.linkedin.com/groups/9061244/)
+<br/>
 [gurel.cf](https://gurel.cf) - my portfolio (backup website)
 <br/>
 [hebrew.cf](https://hebrew.cf) - simple hebrew speech to text app
