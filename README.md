@@ -1,6 +1,6 @@
 <div align="center">
    <h2>hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm Gurel</h2>
-   <code align="center" width="100%">Full-stack Web Developer.</code>
+   <code align="center" width="100%">Full-stack Software Engineer</code>
    <br/><br/>
 </div>
 
