@@ -10,7 +10,7 @@
  &nbsp;
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gurelbs/)
  &nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://guribs.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://gure.li)
  &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-guri240@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guri240@gmail.com)](mailto:guri240@gmail.com)
 &nbsp;
@@ -50,7 +50,7 @@
 # About me 💎
 ## <a href="https://guribs.com" target="_blank">take a look at  my portfolio</a>!
 
-- 🌎 I’m 28 years old, from israel <img width="15px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"/>
+- 🌎 I’m 29 years old, from israel <img width="15px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"/>
 <!-- - 🧭 I’m currently Open To Work -->
 <!-- - 🌱 I’m currently learning angular, more about Advanced JavaScript Concepts.  -->
 <!-- - 👯 I’m looking to collaborate on **Full/MERN-Stack, Front-End or Back-End Development** -->
