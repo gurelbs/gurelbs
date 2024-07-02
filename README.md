@@ -12,7 +12,7 @@
  &nbsp;
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://gure.li)
  &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-4gurel@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:4gurel@gmail.com)](4gurel@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-4gurel@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:4gurel@gmail.com (mailto: 4gurel@gmail.com)
 &nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gurelbs.gurelbs)
 [![](https://tokei.rs/b1/github/gurelbs)](https://github.com/gurelbs)  
