@@ -1,5 +1,5 @@
 <div align="center">
-   <h2>hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm Gurel</h2>
+   <h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'
    <code align="center" width="100%">Full-stack Software Engineer</code>
    <br/><br/>
 </div>
@@ -12,7 +12,7 @@
  &nbsp;
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://gure.li)
  &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-4gurel@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:4gurel@gmail.com (mailto: 4gurel@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-4gurel@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:4gurel@gmail.com)](mailto:4gurel@gmail.com)
 &nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gurelbs.gurelbs)
 [![](https://tokei.rs/b1/github/gurelbs)](https://github.com/gurelbs)  
@@ -37,14 +37,12 @@
      <code><img width="30%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
    </div>
     <br/><br/>
-   <div align="center" width="100%" style="display:flex">
+   <div align="center" width="100%" >
       <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&theme=graywhite&layout=compact&hide=html" />
       <img height="200px" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
    </div>
    <br/><br/>
 </div>
 <!-- &layout=compact&langs_count=8  &layout=compact &hide=html-->
-<!--  &hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff
 
-
-
+<!--  &hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff -->
