@@ -43,7 +43,7 @@
    </div>
    <br/><br/>
 </div>
-<!-- &layout=compact&langs_count=8  &layout=compact &hide=html--> -->
+<!-- &layout=compact&langs_count=8  &layout=compact &hide=html-->
 <!--  &hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff
 
 
