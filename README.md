@@ -1,5 +1,5 @@
 <div align="center">
-   <h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'
+   <h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'M GUREL
    <code align="center" width="100%">Full-stack Software Engineer</code>
    <br/><br/>
 </div>
