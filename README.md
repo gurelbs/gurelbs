@@ -1,7 +1,7 @@
 <div align="center">
    <h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Gurel.
       <br/>
-   <code align="center" width="100%">Full-stack Software Engineer</code>
+   <code align="center" width="100%">Full-stack Web Developer</code>
    <br/><br/>
 </div>
 
@@ -36,7 +36,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=GURELBS&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GURELBS&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -65,6 +64,7 @@
    </div>
    <br/><br/>
 </div>
+[![](https://visitcount.itsvg.in/api?id=GURELBS&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
 <!-- &layout=compact&langs_count=8  &layout=compact &hide=html-->
 
