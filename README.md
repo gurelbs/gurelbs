@@ -13,7 +13,7 @@
  &nbsp;
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gurelbs/)
  &nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://gure.li)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://gurel.info)
  &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-4gurel@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:4gurel@gmail.com)](mailto:4gurel@gmail.com)
 &nbsp;
