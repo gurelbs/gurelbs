@@ -62,7 +62,7 @@
    </div>
     <br/><br/>
    <div align="center" width="100%" >
-      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&theme=graywhite&layout=compact&hide=html&langs_count=8" />
+      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs&langs_count=8" />
       <img height="200px" alt="gurel's github stats" src="https://github-readme-stats.vercel.app/api?username=gurelbs&show_icons=true&hide_border=true" />
    </div>
    <br/><br/>
