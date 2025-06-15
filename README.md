@@ -39,7 +39,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--# Languages & Tools 🚀
+# Languages & Tools 🚀
 
 <div width="100%">
     <div align="center" width="100%">
@@ -65,7 +65,6 @@
    <br/><br/>
 </div>
 [![](https://visitcount.itsvg.in/api?id=GURELBS&icon=0&color=0)](https://visitcount.itsvg.in)
--->
 <!-- &layout=compact&langs_count=8  &layout=compact &hide=html-->
 
 <!--  &hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff -->
