@@ -43,7 +43,7 @@
 
 <div width="100%">
     <div align="center" width="100%">
-       <code><img width="40%" src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-ar21.svg"></code>
+       <code><img width="40%" src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c.svg"></code>
        <code><img width="40%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21.svg"></code>
        <code><img width="40%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
      <code><img width="40%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
